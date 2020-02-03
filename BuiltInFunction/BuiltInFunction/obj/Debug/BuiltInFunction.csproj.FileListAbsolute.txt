@@ -1,0 +1,7 @@
+C:\Users\1321200\Desktop\BuiltInFunction\BuiltInFunction\obj\Debug\BuiltInFunction.csprojAssemblyReference.cache
+C:\Users\1321200\Desktop\BuiltInFunction\BuiltInFunction\obj\Debug\BuiltInFunction.csproj.CoreCompileInputs.cache
+C:\Users\1321200\Desktop\BuiltInFunction\BuiltInFunction\bin\Debug\BuiltInFunction.exe.config
+C:\Users\1321200\Desktop\BuiltInFunction\BuiltInFunction\bin\Debug\BuiltInFunction.exe
+C:\Users\1321200\Desktop\BuiltInFunction\BuiltInFunction\bin\Debug\BuiltInFunction.pdb
+C:\Users\1321200\Desktop\BuiltInFunction\BuiltInFunction\obj\Debug\BuiltInFunction.exe
+C:\Users\1321200\Desktop\BuiltInFunction\BuiltInFunction\obj\Debug\BuiltInFunction.pdb
